@@ -14,3 +14,5 @@ Heres key example to my game:
 <img width="280" height="447" alt="image" src="https://github.com/user-attachments/assets/b092f36c-23bb-4cbc-9091-f5aab04978a3" />
  
  > That is anexample of variable 
+
+_copy right since 2025_
