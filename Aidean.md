@@ -9,7 +9,8 @@ Today, I would like to talk about a couple of key aspects to add to your scratch
 
 Heres key example to my game:  
    *[https://scratch.mit.edu/projects/](https://scratch.mit.edu/projects/1103105996/editor/)*
-   
+   <img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/0bb6eb9c-ea93-46cb-bf27-2e994a0a5872" />
+
 <img width="280" height="447" alt="image" src="https://github.com/user-attachments/assets/b092f36c-23bb-4cbc-9091-f5aab04978a3" />
  
  > That is anexample of variable 
